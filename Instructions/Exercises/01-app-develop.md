@@ -6,18 +6,7 @@ With the Azure OpenAI Service, developers can create chatbots and other applicat
 
 In the scenario for this exercise, you will perform the role of a software developer working on a wildlife marketing campaign. You are exploring how to use generative AI to improve advertising emails and categorize articles that might apply to your team. The prompt engineering techniques used in the exercise can be applied similarly for a variety of use cases.
 
-This exercise will take approximately **30** minutes.
-
-## Clone the repository for this course
-
-If you have not already done so, you must clone the code repository for this course:
-
-1. Start Visual Studio Code.
-2. Open the palette (SHIFT+CTRL+P) and run a **Git: Clone** command to clone the `https://github.com/MicrosoftLearning/mslearn-openai` repository to a local folder (it doesn't matter which folder).
-3. When the repository has been cloned, open the folder in Visual Studio Code.
-4. Wait while additional files are installed to support the C# code projects in the repo.
-
-    > **Note**: If you are prompted to add required assets to build and debug, select **Not Now**.
+This demo will take approximately **30** minutes.
 
 ## Provision an Azure OpenAI resource
 
@@ -29,15 +18,9 @@ If you don't already have one, provision an Azure OpenAI resource in your Azure 
     - **Subscription**: *Select an Azure subscription that has been approved for access to the Azure OpenAI service*
     - **Resource group**: *Choose or create a resource group*
     - **Region**: *Make a **random** choice from any of the following regions*\*
-        - Canada East
         - East US
         - East US 2
-        - France Central
-        - Japan East
         - North Central US
-        - Sweden Central
-        - Switzerland North
-        - UK South
     - **Name**: *A unique name of your choice*
     - **Pricing tier**: Standard S0
 
