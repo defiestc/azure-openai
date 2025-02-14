@@ -1,7 +1,4 @@
----
-lab:
-    title: 'Application development with Azure OpenAI Service'
----
+
 
 # Application development with Azure OpenAI Service
 
