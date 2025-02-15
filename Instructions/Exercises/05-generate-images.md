@@ -14,7 +14,7 @@ Before you can use Azure OpenAI to generate images, you must provision an Azure 
 1. Create an **Azure OpenAI** resource with the following settings:
     - **Subscription**: *Select an Azure subscription that has been approved for access to the Azure OpenAI service, including DALL-E*
     - **Resource group**: *Choose or create a resource group*
-    - **Region**: *Choose either **East US** or **Sweden Central***\*
+    - **Region**: *Choose either **East US***\*
     - **Name**: *A unique name of your choice*
     - **Pricing tier**: Standard S0
 
