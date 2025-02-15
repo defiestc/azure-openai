@@ -24,7 +24,7 @@ Before you can use Azure OpenAI to generate images, you must provision an Azure 
 1. On the **Overview** page for your Azure OpenAI resource, scroll down to the **Get Started** section and select the button to go to **AI Foundry portal** (previously AI Studio).
 1. In Azure AI Foundry portal, in the pane on the left, select the **Deployments** page and view your existing model deployments. If you don't already have one for DALL-E 3, create a new deployment of the **dall-e-3** model with the following settings:
     - **Deployment name**: dalle3
-    - **Model version**: *Use default version*
+    - **Model version**: *dall-e-3*
     - **Deployment type**: Standard
     - **Capacity units**: 1K
     - **Content filter**: Default
